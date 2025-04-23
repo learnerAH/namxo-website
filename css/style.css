@@ -738,6 +738,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 
+#services .catchydescription {
+  font-size: 10px;
+  margin-left: 180px;
+  line-height: 24px;
+  margin-bottom: 0;
+}
+
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {

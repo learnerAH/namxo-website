@@ -166,5 +166,5 @@ jQuery(document).ready(function( $ ) {
     loop: true,
     items: 1
   });
-
+  
 });
