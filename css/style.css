@@ -739,11 +739,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .catchydescription {
-  font-size: 10px;
+  font-size: 1px;
   margin-left: 180px;
   line-height: 24px;
   margin-bottom: 0;
+  color: #18d26e;
 }
+#services .editcatchydescription {
+  font-size: 16px;
+  text-align: center;
+  margin-left: px;
+  line-height: px;
+  margin-bottom: 0px;
+  color: #18d26e;
+}
+
 
 /* Call To Action Section
 --------------------------------*/
